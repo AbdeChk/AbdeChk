@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AbdeChk
-- 👀 I’m interested in Data science and humanities..
+- 👀 I’m interested in Data Science and humanities..
 - 🌱 I’m currently learning Python for data science and some tools like Power Bi..
 - 💞️ I’m looking to collaborate on Anything related to data science ..
 
