@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @AbdeChk
-- 👀 I’m interested in Data Science and humanities..
-- 🌱 I’m currently learning Python for data science and some tools like Power Bi..
-- 💞️ I’m looking to collaborate on Anything related to data science ..
+- Exploring the intersection of data science and humanities.
 
 <!---
 AbdeChk/AbdeChk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
