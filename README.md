@@ -1,4 +1,4 @@
-- Exploring the intersection of data science and humanities.
+-  Interested in humanities and computing.
 
 <!---
 AbdeChk/AbdeChk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
